@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Cyklon_3000</h1>
 <div style="text-align: center;">
-<a href="https://github.com/Cyklon3000"><p align="center" style="display:inline"><img src="https://img.shields.io/github/stars/Cyklon3000?style=for-the-badge&color=%23e3b341"/></p></a><a href="https://x.com/3000Cyklon"><p align="center" style="display:inline"><img src="https://img.shields.io/twitter/follow/3000Cyklon?style=for-the-badge&logo=x&color=%231DA1F2&logoColor=%231DA1F2"/></p></a><a href="https://www.youtube.com/@Cyklon_3000/videos"><p align="center" style="display:inline"><img src="https://img.shields.io/youtube/channel/views/UC0fNkqPAaO_UlP2bXDihSFg?style=for-the-badge&logo=youtube&color=%23f00&logoColor=%23f00"/></p></a>
+  <a href="https://github.com/Cyklon3000">
+    <p align="center" style="display:inline">
+      <img src="https://img.shields.io/github/stars/Cyklon3000?style=for-the-badge&color=%23e3b341"/>
+    </p>
+  </a>
+  <a href="https://x.com/3000Cyklon">
+    <p align="center" style="display:inline">
+      <img src="https://img.shields.io/badge/50-Follow%20%403000Cyklon?style=for-the-badge&logo=x&label=Follow%20%403000Cyklon&color=%231DA1F2&logoColor=%231DA1F2"/>
+    </p>
+  </a>
+  <a href="https://www.youtube.com/@Cyklon_3000/videos">
+    <p align="center" style="display:inline">
+      <img src="https://img.shields.io/youtube/channel/views/UC0fNkqPAaO_UlP2bXDihSFg?style=for-the-badge&logo=youtube&color=%23f00&logoColor=%23f00"/>
+    </p>
+  </a>
 </div>
 
 
