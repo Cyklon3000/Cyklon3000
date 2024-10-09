@@ -11,8 +11,7 @@
 - 🌱 I’m currently learning **Godot, Web-Development and everything I need for my efforts.**
 
 - 📫 How to reach me:
-  <p style="display:inline"><img src="https://img.shields.io/badge/chat-cyklon__3000?style=for-the-badge&logo=discord&label=%40cyklon_3000&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F419926802366988292
-  "/></p>
+  <p style="display:inline"><img src="https://img.shields.io/badge/chat-cyklon__3000?style=for-the-badge&logo=discord&label=%40cyklon_3000&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F419926802366988292"/></p>
   <p style="display:inline"><img src="https://img.shields.io/badge/mail-3000Cyklon%40gmail%252Ecom?style=for-the-badge&logo=maildotru&label=3000Cyklon%40gmail.com&color=%23ccc&link=mailto%3A3000Cyklon%40gmail."/></p>
 
 <h3 align="left">Languages and Tools:</h3>
