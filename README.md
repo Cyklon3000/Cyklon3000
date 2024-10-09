@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyklon_3000</h1>
 <div style="text-align: center;">
-<p align="center" style="display:inline"><img src="https://img.shields.io/github/stars/Cyklon3000?style=for-the-badge&color=%23e3b341"/></p><p align="center" style="display:inline"><img src="https://img.shields.io/twitter/follow/3000Cyklon?style=for-the-badge&logo=x&color=%231DA1F2&logoColor=%231DA1F2"/></p><p align="center" style="display:inline"><img src="https://img.shields.io/youtube/channel/views/UC0fNkqPAaO_UlP2bXDihSFg?style=for-the-badge&logo=youtube&color=%23f00&logoColor=%23f00"/></p>
+<a href="https://github.com/Cyklon3000"><p align="center" style="display:inline"><img src="https://img.shields.io/github/stars/Cyklon3000?style=for-the-badge&color=%23e3b341"/></p></a><a href="https://x.com/3000Cyklon"><p align="center" style="display:inline"><img src="https://img.shields.io/twitter/follow/3000Cyklon?style=for-the-badge&logo=x&color=%231DA1F2&logoColor=%231DA1F2"/></p></a><a href="https://www.youtube.com/@Cyklon_3000/videos"><p align="center" style="display:inline"><img src="https://img.shields.io/youtube/channel/views/UC0fNkqPAaO_UlP2bXDihSFg?style=for-the-badge&logo=youtube&color=%23f00&logoColor=%23f00"/></p></a>
 </div>
 
 
@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning **Godot, Web-Development and everything I need for my efforts.**
 
 - 📫 How to reach me:
-  <p style="display:inline"><img src="https://img.shields.io/badge/chat-cyklon__3000?style=for-the-badge&logo=discord&label=%40cyklon_3000&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F419926802366988292"/></p>
-  <p style="display:inline"><img src="https://img.shields.io/badge/mail-3000Cyklon%40gmail%252Ecom?style=for-the-badge&logo=maildotru&label=3000Cyklon%40gmail.com&color=%23ccc&link=mailto%3A3000Cyklon%40gmail."/></p>
+  <a href="https://discord.com/channels/@me"><p style="display:inline"><img src="https://img.shields.io/badge/chat-cyklon__3000?style=for-the-badge&logo=discord&label=%40cyklon_3000&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F419926802366988292"/></p></a>
+  <a href="mailto:3000Cyklon@gmail.com"><p style="display:inline"><img src="https://img.shields.io/badge/mail-3000Cyklon%40gmail%252Ecom?style=for-the-badge&logo=maildotru&label=3000Cyklon%40gmail.com&color=%23ccc&link=mailto%3A3000Cyklon%40gmail."/></p></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); text-decoration:none">
