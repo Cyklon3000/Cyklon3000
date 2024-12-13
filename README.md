@@ -47,5 +47,5 @@
 </div>
 
 <div style="text-align: left;">
-<p><img align="center" src="https://github-readme-stats-cyklon3000s-projects.vercel.app/api/top-langs/?username=Cyklon3000&size_weight=0.2&count_weight=0.8&hide=ShaderLab,HLSL,SCSS&layout=donut-vertical&langs_count=6&theme=github_dark" alt="cyklon3000" /></p>
+<p><img align="center" src="https://github-readme-stats-cyklon3000s-projects.vercel.app/api/top-langs/?username=Cyklon3000&size_weight=0.2&count_weight=0.8&hide=ShaderLab,HLSL,SCSS,GLSL,,Roff,C&layout=donut-vertical&langs_count=8&theme=github_dark" alt="cyklon3000" /></p>
 </div>
