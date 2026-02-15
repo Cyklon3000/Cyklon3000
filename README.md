@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<a href="https://max-seidel.dev/"><h2>Visit my website!<h2></a>
+<a style="font-size:2.0rem;" href="https://max-seidel.dev/">Visit my website!</a>
 
 <h3 align="center">A IT Student in Germany</h3>
 
