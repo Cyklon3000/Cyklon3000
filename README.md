@@ -5,9 +5,9 @@
       <img src="https://img.shields.io/github/stars/Cyklon3000?style=for-the-badge&color=%23e3b341"/>
     </p>
   </a>
-  <a href="https://x.com/3000Cyklon">
+  <a href="https://bsky.app/profile/cyklon3000.bsky.social">
     <p align="center" style="display:inline">
-      <img src="https://img.shields.io/bluesky/followers/cyklon3000.bsky.social?style=for-the-badge&logo=x&label=Follow%20%403000Cyklon&color=%231DA1F2&logoColor=%231DA1F2"/>
+      <img src="https://img.shields.io/bluesky/followers/cyklon3000.bsky.social?style=for-the-badge&label=Follow%20%403000Cyklon&color=%231DA1F2&logoColor=%231DA1F2"/>
     </p>
   </a>
   <a href="https://www.youtube.com/@Cyklon_3000/videos">
