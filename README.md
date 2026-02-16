@@ -22,7 +22,7 @@
 
 - 📫 How to reach me:
   <a href="https://discord.com/channels/@me"><p style="display:inline"><img src="https://img.shields.io/badge/chat-%25Cyklon_3000?style=for-the-badge&logo=discord&label=Cyklon_3000&&color=%235865F2"/></p></a>
-  <a href="mailto:3000Cyklon@gmail.com"><p style="display:inline"><img src="https://img.shields.io/badge/mail-3000Cyklon%40gmail%252Ecom?style=for-the-badge&logo=maildotru&label=3000Cyklon%40gmail.com&color=%23ccc&link=mailto%3A3000Cyklon%40gmail."/></p></a>
+  <a href="mailto:contact@max-seidel.dev"><p style="display:inline"><img src="https://img.shields.io/badge/mail-3000Cyklon%40gmail%252Ecom?style=for-the-badge&logo=maildotru&label=contact%40max-seidel.com&color=%23ccc&link=mailto%3A3000Cyklon%40gmail."/></p></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); text-decoration:none">
